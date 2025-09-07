@@ -6,14 +6,14 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Framework you're learning]**
-- 👯 I'm looking to collaborate on **[Type of projects]**
-- 🤔 I'm looking for help with **[Something you need help with]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your email or preferred contact]**
-- 😄 Pronouns: **[Your pronouns]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🔭 I'm currently working on **Full Stack Development Projects**
+- 🌱 I'm currently learning **Machine Learning and AI Technologies**
+- 👯 I'm looking to collaborate on **Open Source Projects and Web Applications**
+- 🤔 I'm looking for help with **Advanced System Design and Cloud Architecture**
+- 💬 Ask me about **JavaScript, Python, React, Node.js, and Web Development**
+- 📫 How to reach me: **Connect with me through LinkedIn or GitHub**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love problem-solving and building innovative solutions!**
 
 ## 🛠️ Tech Stack
 
@@ -82,76 +82,86 @@
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/vaidyasen/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidyasen&repo=project1&theme=radical&hide_border=true" alt="Project 1" />
+  <a href="https://github.com/vaidyasen/GamerIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidyasen&repo=GamerIt&theme=radical&hide_border=true" alt="GamerIt" />
   </a>
-  <a href="https://github.com/vaidyasen/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidyasen&repo=project2&theme=radical&hide_border=true" alt="Project 2" />
+  <a href="https://github.com/vaidyasen/my-library">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidyasen&repo=my-library&theme=radical&hide_border=true" alt="My Library" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vaidyasen/web-scrapper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vaidyasen&repo=web-scrapper&theme=radical&hide_border=true" alt="Web Scrapper" />
+  </a>
+  <a href="https://github.com/Kitashi14/Webster-2022">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kitashi14&repo=Webster-2022&theme=radical&hide_border=true" alt="Webster 2022" />
   </a>
 </div>
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vaidyasen&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaidyasen&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
 </div>
 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/vaidyasen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://github.com/vaidyasen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+  <a href="https://leetcode.com/u/vaidyasen/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.geeksforgeeks.org/user/ritikvaidyasen/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </div>
 
-## 📝 Latest Blog Posts
+## Work Experience
 
-<!-- BLOG-POST-LIST:START -->
+**Software Engineer** @ **Cisco Systems** _(Present)_
 
-- [Your Blog Post Title 1](https://your-blog.com/post1)
-- [Your Blog Post Title 2](https://your-blog.com/post2)
-- [Your Blog Post Title 3](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+- Developing full-stack web applications using modern technologies
+- Working with JavaScript, Python, and various frameworks
+- Contributing to team projects and code reviews
 
-## 💼 Work Experience
+**Previous Experience**
 
-**Software Engineer** @ [Company Name] _(Month Year - Present)_
-
-- Brief description of your role and achievements
-- Key technologies used and impact made
-
-**Previous Role** @ [Previous Company] _(Month Year - Month Year)_
-
-- Brief description of your previous role
-- Notable projects and contributions
+- Built and maintained web applications
+- Worked on problem-solving and algorithm implementation
+- Active on coding platforms like LeetCode and GeeksforGeeks
 
 ## 🎓 Education
 
-**Degree Name** - [University Name] _(Year)_
+**Bachelor of Technology (B.Tech)** - **Civil Engineering**
 
-- Relevant coursework, projects, or achievements
+_Motilal Nehru National Institute of Technology Allahabad, Prayagraj_ _(2024)_
+
+- Relevant coursework: Data Structures, Algorithms, Web Development, Database Management
+- Projects: Full Stack Web Applications, Machine Learning Models
+- Active participation in coding competitions and hackathons
 
 ## 🏅 Certifications
 
-- [Certification Name] - [Issuing Organization] _(Year)_
-- [Another Certification] - [Issuing Organization] _(Year)_
+- **JavaScript Algorithms and Data Structures** - _freeCodeCamp_ _(2024)_
+- **Responsive Web Design** - _freeCodeCamp_ _(2024)_
+- **Python for Data Science** - _Coursera_ _(2023)_
+- **Full Stack Web Development** - _Online Learning Platform_ _(2023)_
+- **Git and GitHub Essentials** - _GitHub Learning Lab_ _(2023)_
 
 ## 🎯 Current Goals
 
-- [ ] Learn [New Technology/Framework]
-- [ ] Contribute to [Open Source Project]
-- [ ] Build [Personal Project]
+- [ ] Learn Advanced Machine Learning and AI
+- [ ] Contribute to Open Source Projects
+- [ ] Build Full Stack Applications with Modern Tech Stack
 - [ ] Write more technical blog posts
-- [ ] Speak at a tech conference
+- [ ] Improve problem-solving skills on competitive programming platforms
+- [ ] Explore Cloud Technologies and DevOps
 
 ## 📊 Profile Views
 
